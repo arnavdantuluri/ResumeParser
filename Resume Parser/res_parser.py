@@ -17,7 +17,7 @@ from ftfy import fix_text
 from sklearn.feature_extraction.text import TfidfVectorizer
 import re
 
-filed="/Users/arnavdantuluri/Desktop/Code Projects/Resume Parser/Gaurav Mittal.pdf"
+filed="file_path"
 
 try:
     # doc = Document()
